@@ -1,0 +1,24 @@
+### single files ###
+*.log
+
+### folders ###
+
+.data/
+.torrents/
+
+# movie torrnet locaion
+.data/
+!.data/.gitkeep
+
+# project dependencies
+node_modules
+
+# build folders
+dist
+build
+
+# coverage reports
+.nyc_output/
+coverage
+.coveralls.yml
+
