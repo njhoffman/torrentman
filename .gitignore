@@ -7,6 +7,10 @@
 .torrents/
 
 # movie torrnet locaion
+.cache/
+!.cache/.gitkeep
+
+# movie torrnet locaion
 .data/
 !.data/.gitkeep
 

@@ -1,8 +1,8 @@
 const config = {
   url: 'https://piratebay.live/search',
   // url: 'https://thepiratebays.info/search',
-  shellFilePath: '.data/',
-  minSeeders: 5,
+  shellFilePath: '.data/torrents.sh',
+  minSeeders: 0,
   fetchInterval: 1500,
   categories: {
     All: 0,
